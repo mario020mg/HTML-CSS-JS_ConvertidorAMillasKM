@@ -1,0 +1,17 @@
+body {
+  padding: 20px;
+  background-color: blanchedalmond;
+}
+h1 {
+  padding: 1%;
+  background-color: white;
+  border-radius: 10px;
+}
+p {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  width: 240px;
+  height: 20px;
+  padding: 10px;
+}
